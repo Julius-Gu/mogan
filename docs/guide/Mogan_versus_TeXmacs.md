@@ -1,4 +1,4 @@
-# Mogan v.s. GNU TeXmacs
+# Mogan vs. GNU TeXmacs
 ## Product Positioning
 Mogan is a libre STEM suite, consists of Mogan Research, Mogan Code and Mogan Beamer. Mogan Research is one of the distribution of GNU TeXmacs, both of them are libre scientific editing platform.
 
